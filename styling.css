@@ -1,0 +1,28 @@
+h1 {
+    background-color: black;
+    font-size: 60px;
+    font-family: monospace;
+}
+p1 { word-spacing: 0rem;
+    color: white;
+}
+p2 { word-spacing: 0rem;
+    color: aqua;
+    margin: 0;
+    padding: 0; 
+}
+h2 {
+    background-color: blueviolet;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+h3 {
+    background-color: cornflowerblue;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: right;
+    color: black;
+}
